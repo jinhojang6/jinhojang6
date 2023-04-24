@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**jinhojang6/jinhojang6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer who primarily uses Javascript, Typescript, and Solidity.
 
-Here are some ideas to get you started:
+**Experiences**
+- Frontend: React, NextJS, React Native
+- Backend: NestJS, Django
+- Database: MySQL, MongoDB
+- Infra: AWS, Kubernetes
+- Solidity, NFTs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mostly work on JS/TS development
+
+**I am..**
+
+- 🔭 currently working on developing React components for [Web3 branding](https://github.com/acid-info/lsd) and personal coding education brand.
+
+- 🌱 currently learning Python and AI-related expertise.
+
+- 👯 looking to collaborate on 
+
+- 📫 Email: jinhojang1455@gmail.com
