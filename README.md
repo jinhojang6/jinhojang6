@@ -15,8 +15,8 @@ Mostly work on JS/TS development
 
 - 🔭 currently working on developing React components for [Web3 branding](https://github.com/acid-info/lsd) and teaching coding for newbies.
 
-- 🌱 currently learning Python and AI-related expertise.
+- 🌱 currently learning Python and Tensorflow.
 
-- 👯 looking to collaborate on the AI & Web field
+- 👯 looking to collaborate on the AI & Web3 field
 
 - 📫 Email: jinhojang1455@gmail.com
