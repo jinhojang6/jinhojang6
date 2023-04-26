@@ -4,9 +4,9 @@ I am a software developer who primarily uses Javascript, Typescript, and Solidit
 
 **Experiences**
 - Frontend: React, NextJS, React Native
-- Backend: NestJS, Django
+- Backend: NestJS, TypeORM, Django
 - Database: MySQL, MongoDB
-- Infra: AWS, Kubernetes
+- Infra: AWS, Kubernetes, Docker
 - Solidity, NFTs
 
 Mostly work on JS/TS development
