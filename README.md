@@ -17,6 +17,6 @@ Mostly work on JS/TS development
 
 - 🌱 currently learning Python and AI-related expertise.
 
-- 👯 looking to collaborate on 
+- 👯 looking to collaborate on the AI & Web field
 
 - 📫 Email: jinhojang1455@gmail.com
