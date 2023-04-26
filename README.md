@@ -13,7 +13,7 @@ Mostly work on JS/TS development
 
 **I am..**
 
-- 🔭 currently working on developing React components for [Web3 branding](https://github.com/acid-info/lsd) and personal coding education brand.
+- 🔭 currently working on developing React components for [Web3 branding](https://github.com/acid-info/lsd) and teaching coding for newbies.
 
 - 🌱 currently learning Python and AI-related expertise.
 
