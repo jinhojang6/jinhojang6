@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-I am a software developer who primarily uses Javascript, Typescript, and Solidity.
+My name is Jinho, and I am a Javascript/Typescript developer with a passion for creating excellent products and software brand.
+
+I always want to stand at the intersection of technology and art. 
 
 **Experiences**
 - Frontend: React, NextJS, React Native
 - Backend: NestJS, TypeORM, Django
 - Database: MySQL, MongoDB
 - Infra: AWS, Kubernetes, Docker
-- Solidity, NFTs
+- Solidity, Web3.js
 
-Mostly work on JS/TS development
+Mostly work on JS/TS development nowadays.
 
 **I am..**
 
