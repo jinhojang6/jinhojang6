@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi, I'm Jinho, a JavaScript/TypeScript developer who is passionate about creating excellent products and software brands. 
+Hi, I'm Jinho, a JavaScript/TypeScript developer who is passionate about creating excellent products and software brands.
 
-I love standing at the intersection of technology and art!
+Always eager to learn new things and collaborate with intelligent individuals :)
 
 <br/>
 
@@ -48,3 +48,6 @@ I mostly work on JS/TS development using React and NestJS nowadays.
 - Organized [ETHCon Korea](https://genesis.ethcon.kr/contributors.en.html), a non-profit Ethereum developer conference for Koreans, in 2019 and 2020
 
 - Teaching English to Korean developers 
+
+
+Thank you for visiting my profile. I hope you have a great day!
