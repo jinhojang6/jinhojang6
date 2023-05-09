@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Jinho, a JavaScript/TypeScript developer who is passionate about creating excellent products and software brands.
+I'm Jinho, a JavaScript/TypeScript developer who is passionate about creating excellent products and software brands.
 
 Always eager to learn new things and collaborate with intelligent individuals :)
 
