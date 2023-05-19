@@ -2,7 +2,7 @@
 
 I'm Jinho, a JavaScript/TypeScript developer who is passionate about creating excellent products and software brands.
 
-Always eager to learn new things and collaborate with intelligent individuals :)
+Always eager to learn new things and collaborate with intelligent people :)
 
 <br/>
 
@@ -22,7 +22,7 @@ Always eager to learn new things and collaborate with intelligent individuals :)
 - Blockchain: Solidity
 - Machine Learning: TensorFlow
 
-I mostly work on JS/TS development using React and NestJS nowadays.
+I mostly work on JS/TS development using React, NextJS, and NestJS nowadays.
 
 <br/>
 
