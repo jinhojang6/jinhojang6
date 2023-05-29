@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jinho, a JavaScript/TypeScript developer who is passionate about creating excellent products and software brands.
+I'm Jinho, a JavaScript/TypeScript developer & entrepreneur who is passionate about creating excellent products and software brands.
 
 Always eager to learn new things and collaborate with intelligent people :)
 
@@ -28,9 +28,7 @@ I mostly work on JS/TS development using React, NextJS, and NestJS nowadays.
 
 **I am..**
 
-- 🔭 currently working on developing React components for [Web3 branding](https://github.com/acid-info/lsd) and teaching coding to newbies.
-
-- 👯 looking to collaborate on projects related to AI and Web3.
+- 👯 looking to collaborate on coding education, or projects related to AI and Web3.
 
 - 📫 Email: jinhojang1455@gmail.com
 
