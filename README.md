@@ -1,36 +1,28 @@
 ### Hi there 👋
 
-I'm Jinho, a JavaScript/TypeScript developer & entrepreneur who is passionate about creating excellent products and software brands.
+I'm Jinho, a software developer & entrepreneur who is passionate about creating excellent products and brand related to software.
 
 Always eager to learn new things and collaborate with intelligent people :)
 
 <br/>
 
-**Tech Stack**
-- JavScript & TypeScript
-- Frontend: React, Recoil, Zustand, Styled Components
-- Backend: NestJS, TypeORM, MariaDB
+**Currently using**
+- Frontend: React, NextJS, Styled Components, Recoil
+- Backend: NestJS, TypeORM
+- Database: MariaDB
 - Infra: AWS, Docker
+- Blockchain: Solidity (ERC721)
+- Machine Learning: TensorFlow (Keras)
 
 <br/>
 
-**Other Experiences**
-- Frontend: React Native, HookstateJS, TailwindCSS
-- Backend: Django, Flask
+**Have experience in**
+- Frontend: React Native, HookstateJS, TailwindCSS, Zustand
+- Backend: Django, Mongoose
 - Database: PostgreSQL, MongoDB
 - Infra: Kubernetes, Jenkins
-- Blockchain: Solidity
-- Machine Learning: TensorFlow
 
-I mostly work on JS/TS development using React, NextJS, and NestJS nowadays.
-
-<br/>
-
-**I am..**
-
-- 👯 looking to collaborate on coding education, or projects related to AI and Web3.
-
-- 📫 Email: jinhojang1455@gmail.com
+I mostly work on JS/TS development using React, NextJS, and NestJS nowadays. You can find my recent activities or projects below.
 
 <br/>
 
@@ -45,7 +37,9 @@ I mostly work on JS/TS development using React, NextJS, and NestJS nowadays.
 **Also..**
 - Organized [ETHCon Korea](https://genesis.ethcon.kr/contributors.en.html), a non-profit Ethereum developer conference for Koreans, in 2019 and 2020
 
-- Teaching English to Korean developers 
+- Teaching English to Korean developers and coding to students
 
 
 Thank you for visiting my profile. I hope you have a great day!
+
+- 📫 Email: jinhojang1455@gmail.com
