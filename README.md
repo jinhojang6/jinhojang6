@@ -22,7 +22,7 @@ Always eager to learn new things and collaborate with intelligent people :)
 - Database: PostgreSQL, MongoDB
 - Infra: Kubernetes, Jenkins
 
-I mostly work on JS/TS development using React, NextJS, and NestJS nowadays. You can find my recent activities or projects below.
+I mostly work on JS/TS development using React, NextJS, and NestJS nowadays. You can find my recent activities and projects below.
 
 <br/>
 
@@ -40,6 +40,8 @@ I mostly work on JS/TS development using React, NextJS, and NestJS nowadays. You
 - Organized the [Status Ambassador Program](https://ambassador.status.im/) and [Translation Campaign](https://translate.status.im/)
 
 - Teaching English to Korean developers and coding to students
+
+- Translate technical & web3 content into Korean (Whitepapers, News, etc.)
 
 
 Thank you for visiting my profile. I hope you have a great day!
