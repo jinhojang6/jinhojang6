@@ -12,7 +12,6 @@ Always eager to learn new things and collaborate with intelligent people :)
 - Database: MariaDB
 - Infra: AWS, Docker
 - Blockchain: Solidity (ERC721)
-- Machine Learning: TensorFlow (Keras)
 
 <br/>
 
@@ -21,6 +20,7 @@ Always eager to learn new things and collaborate with intelligent people :)
 - Backend: Django, Mongoose
 - Database: PostgreSQL, MongoDB
 - Infra: Kubernetes, Jenkins
+- Machine Learning: TensorFlow (Keras)
 
 I mostly work on JS/TS development using React, NextJS, and NestJS nowadays. You can find my recent activities and projects below.
 
