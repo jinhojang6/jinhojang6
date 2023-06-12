@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jinho, a software developer & entrepreneur who is passionate about creating excellent products and brand related to software.
+I'm Jinho, a software developer & businessperson who is passionate about creating excellent products and brand related to software.
 
 Always eager to learn new things and collaborate with intelligent people :)
 
@@ -36,6 +36,8 @@ I mostly work on JS/TS development using React, NextJS, and NestJS nowadays. You
 
 **Also..**
 - Organized [ETHCon Korea](https://genesis.ethcon.kr/contributors.en.html), a non-profit Ethereum developer conference for Koreans, in 2019 and 2020
+
+- Organized the [Status Ambassador Program](https://ambassador.status.im/) and [Translation Campaign](https://translate.status.im/)
 
 - Teaching English to Korean developers and coding to students
 
