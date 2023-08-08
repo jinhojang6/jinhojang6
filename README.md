@@ -39,7 +39,9 @@ I mostly work on JS/TS development using React, NextJS, and NestJS nowadays. You
 
 - Organized the [Status Ambassador Program](https://ambassador.status.im/) and [Translation Campaign](https://translate.status.im/)
 
-- Teaching English to Korean developers and coding to students
+- Teaching English to Korean developers
+
+- Teaching coding to students & job seekers
 
 - Translate technical & web3 content into Korean (Whitepapers, News, etc.)
 
