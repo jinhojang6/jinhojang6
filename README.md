@@ -30,7 +30,7 @@ I mostly work on JS/TS development using React, NextJS, and NestJS nowadays. You
 
 - [Logos Design System](https://github.com/acid-info/lsd#logos-design-system) : An open-source design system for products and digital experiences in counter culture. Implemented components in [React & Storybook](https://www.chromatic.com/library?appId=63e4f71c39dc65c5c703c1e8)
 
-- [Object Detection & Facial Emotion Recognition with Keras](https://github.com/jinhojang6/ai-powered-detection): A group project studying TensorFlow & OpenCV
+- [Object Detection & Facial Emotion Recognition with Keras](https://github.com/jinhojang6/ai-powered-detection): A group project studying TensorFlow, Keras, and OpenCV
 
 <br/>
 
