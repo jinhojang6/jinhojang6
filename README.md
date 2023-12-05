@@ -10,7 +10,8 @@ Always eager to learn new things and collaborate with intelligent people :)
 - Frontend: React, NextJS, Styled Components, Recoil
 - Backend: NestJS, TypeORM
 - Database: MariaDB
-- Infra: AWS, Docker
+- Infra: Docker, Kubernetes
+- Cloud: AWS, Azure
 - Blockchain: Solidity (ERC721)
 
 <br/>
