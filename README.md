@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jinho, a software developer & businessperson who is passionate about creating excellent products and brand related to software.
+I'm Jinho, a software developer who is passionate about creating excellent products and brand related to software.
 
 Always eager to learn new things and collaborate with intelligent people :)
 
