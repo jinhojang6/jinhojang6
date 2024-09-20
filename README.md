@@ -7,7 +7,7 @@ Always eager to learn new things and collaborate with intelligent people :)
 <br/>
 
 **Currently using**
-- Frontend: React, NextJS, Styled Components, Recoil
+- Frontend: React, NextJS, Styled Components, Recoil, HookstateJS
 - Backend: NestJS, TypeORM
 - Database: MariaDB
 - Infra: Docker, Kubernetes
@@ -17,11 +17,11 @@ Always eager to learn new things and collaborate with intelligent people :)
 <br/>
 
 **Have experience in**
-- Frontend: React Native, HookstateJS, TailwindCSS, Zustand
+- Frontend: React Native, TailwindCSS, Zustand
 - Backend: Django, Mongoose
 - Database: PostgreSQL, MongoDB
 - Infra: Kubernetes, Jenkins
-- Machine Learning: TensorFlow (Keras)
+- Machine Learning: TensorFlow, Keras
 
 I mostly work on JS/TS development using React, NextJS, and NestJS nowadays. You can find my recent activities and projects below.
 
