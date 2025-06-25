@@ -9,7 +9,7 @@ Always eager to learn new things and collaborate with intelligent people :)
 **Currently using**
 - Frontend: React, NextJS, Styled Components, Recoil, HookstateJS
 - Backend: NestJS, TypeORM
-- Database: MariaDB
+- Database: MariaDB, PostgreSQL
 - Infra: Docker, Kubernetes
 - Cloud: AWS, Azure
 - Blockchain: Solidity (ERC721)
@@ -19,7 +19,7 @@ Always eager to learn new things and collaborate with intelligent people :)
 **Have experience in**
 - Frontend: React Native, TailwindCSS, Zustand
 - Backend: Django, Mongoose
-- Database: PostgreSQL, MongoDB
+- Database: MongoDB
 - Infra: Kubernetes, Jenkins
 - Machine Learning: TensorFlow, Keras
 
