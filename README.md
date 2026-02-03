@@ -7,8 +7,8 @@ Always eager to learn new things and collaborate with intelligent people :)
 <br/>
 
 **Currently using**
-- Frontend: React, NextJS, Styled Components, Recoil, HookstateJS
-- Backend: NestJS, TypeORM
+- Frontend: React, Next.js, TailwindCSS, react-query, jotai, framer-motion
+- Backend: NestJS, TypeORM, Prisma
 - Database: MariaDB, PostgreSQL
 - Infra: Docker, Kubernetes
 - Cloud: AWS, Azure
@@ -17,7 +17,7 @@ Always eager to learn new things and collaborate with intelligent people :)
 <br/>
 
 **Have experience in**
-- Frontend: React Native, TailwindCSS, Zustand
+- Frontend: React Native, Zustand
 - Backend: Django, Mongoose
 - Database: MongoDB
 - Infra: Jenkins, Supabase
